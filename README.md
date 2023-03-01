@@ -1,7 +1,12 @@
 # 100-coding-questions
 
 ### 1. Find a number is positive or negative ?
-  
+<details>
+<summary><b>Solution</b></summary>
+
+Any folded content here. It requires an empty line just above it.
+
+
   ```java
 class Main
 {
@@ -19,7 +24,9 @@ class Main
   }
 }
 ```
-
+</details> 
+  
+  
 ### 2. Find a number is Even or Odd?
 
 ```java
